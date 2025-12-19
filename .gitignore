@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+venv/
+*.log
+.env
+*.zip
+.kaggle/
+# Dataset trop volumineux pour GitHub
+data/zomato.csv
+data/*.csv
