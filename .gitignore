@@ -10,3 +10,5 @@ venv/
 # Dataset trop volumineux pour GitHub
 data/zomato.csv
 data/*.csv
+!data/zomato_sample.csv
+
